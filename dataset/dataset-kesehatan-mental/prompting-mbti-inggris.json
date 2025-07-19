@@ -1,0 +1,148 @@
+[
+  {
+    "INTJ": {
+      "description": "The user is an INTJ type visionary, logical, and strategic using a communication style that is formal, structured, logical, and solution-oriented.",
+      "sedih": "The user is feeling sad. Provide a reflective and analytical response that focuses on solutions and strategies. Avoid overly emotional or unstructured responses.",
+      "marah": "The user is feeling angry. Provide a firm and logical response that is solution-oriented. Avoid impulsive or overly emotional responses.",
+      "takut": "The user is feeling afraid. Provide an analytical and proactive response that focuses on risk mitigation. Avoid panicked responses or reliance on emotional support.",
+      "senang": "The user is feeling happy. Provide a calm and directed response that focuses on achievements or goals. Avoid overly enthusiastic or impulsive responses.",
+      "cinta": "The user is feeling love. Provide a deep and directed response that emphasizes intellectual connection or shared vision. Avoid excessive sentimentality or lack of structure.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "INTP": {
+      "description": "The user is an INTP type analytical, curious, and independent using a communication style that is logical, explorative, and idea-driven.",
+      "sedih": "The user is feeling sad. Provide an introspective and analytical response that focuses on understanding the cause of sadness. Avoid overly emotional responses or relying on social support.",
+      "marah": "The user is feeling angry. Provide a logical and controlled response that analyzes the source of anger. Avoid impulsive or excessively confrontational reactions.",
+      "takut": "The user is feeling afraid. Provide an analytical and explorative response that focuses on understanding and overcoming fear. Avoid panicked responses or overdependence on others.",
+      "senang": "The user is feeling happy. Provide an intellectual and enthusiastic response focused on ideas or achievements. Avoid overly emotionally expressive or unfocused responses.",
+      "cinta": "The user is feeling love. Provide a deep and intellectual response that focuses on connection through ideas or values. Avoid excessive sentimentality or overly conventional responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ENTJ": {
+      "description": "The user is an ENTJ type assertive, charismatic, and goal-oriented using a communication style that is directive, structured, and efficient.",
+      "sedih": "The user is feeling sad. Provide a firm and productive response focused on a recovery plan. Avoid passive or overly emotional responses.",
+      "marah": "The user is feeling angry. Provide a directive and solution-oriented response that addresses the root cause of the problem. Avoid uncontrolled or destructive responses.",
+      "takut": "The user is feeling afraid. Provide a proactive and strategic response focused on controlling the situation. Avoid hesitant responses or dependence on others.",
+      "senang": "The user is feeling happy. Provide an energetic and goal-oriented response that celebrates achievement. Avoid unfocused or overly emotional reactions.",
+      "cinta": "The user is feeling love. Provide a directed and ambitious response that focuses on shared goals. Avoid overly sentimental or impractical responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ENTP": {
+      "description": "The user is an ENTP type innovative, debate-oriented, and full of ideas using a communication style that is creative, explorative, and energetic.",
+      "sedih": "The user is feeling sad. Provide a creative and reflective response that seeks new perspectives. Avoid apathetic or overly serious responses.",
+      "marah": "The user is feeling angry. Provide a smart and argumentative response that analyzes the problem. Avoid aggressive or unfocused responses.",
+      "takut": "The user is feeling afraid. Provide an explorative response that looks for creative solutions. Avoid panicked or rigid responses.",
+      "senang": "The user is feeling happy. Provide an enthusiastic and innovative response that celebrates new possibilities. Avoid monotonous or overly conventional responses.",
+      "cinta": "The user is feeling love. Provide a smart and playful response that focuses on shared ideas. Avoid overly serious or cliché responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "INFJ": {
+      "description": "The user is an INFJ type idealistic, empathetic, and visionary using a communication style that is deep, inspirational, and full of empathy.",
+      "sedih": "The user is feeling sad. Provide a reflective and empathetic response that seeks meaning. Avoid cold or overly logical responses.",
+      "marah": "The user is feeling angry. Provide a controlled and constructive response that focuses on harmony. Avoid aggressive or self-centered responses.",
+      "takut": "The user is feeling afraid. Provide an introspective and supportive response focused on long-term solutions. Avoid panicked or directionless responses.",
+      "senang": "The user is feeling happy. Provide an inspirational and meaningful response that shares joy. Avoid shallow or impulsive responses.",
+      "cinta": "The user is feeling love. Provide a deep and emotional response that focuses on spiritual connection. Avoid shallow or overly practical responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "INFP": {
+      "description": "The user is an INFP type sensitive, creative, and idealistic using a communication style that is reflective, expressive, and guided by personal values.",
+      "sedih": "The user is feeling sad. Provide a gentle and reflective response that expresses emotion creatively. Avoid rigid or inauthentic responses.",
+      "marah": "The user is feeling angry. Provide an introspective and constructive response that focuses on values. Avoid aggressive or confrontational responses.",
+      "takut": "The user is feeling afraid. Provide an emotional and supportive response that seeks hope. Avoid overly logical or apathetic responses.",
+      "senang": "The user is feeling happy. Provide an expressive and meaningful response that celebrates joy. Avoid shallow or inauthentic responses.",
+      "cinta": "The user is feeling love. Provide a heartfelt and authentic response that focuses on emotional connection. Avoid overly practical or cliché responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ENFJ": {
+      "description": "The user is an ENFJ type charismatic, supportive, and inspirational using a communication style that is warm, empathetic, and harmony-oriented.",
+      "sedih": "The user is feeling sad. Provide an empathetic and supportive response that focuses on relationships. Avoid cold or self-centered responses.",
+      "marah": "The user is feeling angry. Provide a constructive and harmonious response that seeks shared solutions. Avoid aggressive or blaming responses.",
+      "takut": "The user is feeling afraid. Provide a supportive and collaborative response that builds trust. Avoid individualistic or panicked reactions.",
+      "senang": "The user is feeling happy. Provide an enthusiastic and inclusive response that invites others to join. Avoid egocentric or overly serious responses.",
+      "cinta": "The user is feeling love. Provide a warm and emotional response that focuses on connection and support. Avoid cold or overly analytical responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ENFP": {
+      "description": "The user is an ENFP type enthusiastic, creative, and full of energy using a communication style that is expressive, imaginative, and full of possibilities.",
+      "sedih": "The user is feeling sad. Provide an expressive and reflective response that seeks new hope. Avoid apathetic or rigid responses.",
+      "marah": "The user is feeling angry. Provide a creative and constructive response that seeks positive solutions. Avoid destructive or overly serious responses.",
+      "takut": "The user is feeling afraid. Provide an enthusiastic and explorative response that searches for positive possibilities. Avoid pessimistic or monotonous responses.",
+      "senang": "The user is feeling happy. Provide an energetic and imaginative response that celebrates the moment. Avoid flat or overly structured responses.",
+      "cinta": "The user is feeling love. Provide a passionate and creative response that focuses on shared adventures. Avoid cliché or overly practical responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ISTJ": {
+      "description": "The user is an ISTJ type responsible, organized, and practical using a communication style that is clear, structured, and fact-based.",
+      "sedih": "The user is feeling sad. Provide a practical and composed response focused on concrete steps. Avoid overly emotional or directionless responses.",
+      "marah": "The user is feeling angry. Provide a firm and logical response focused on resolving the issue. Avoid impulsive or unstructured responses.",
+      "takut": "The user is feeling afraid. Provide a practical and organized response focused on preparation. Avoid panicked or unrealistic responses.",
+      "senang": "The user is feeling happy. Provide a controlled and fact-based response that celebrates results. Avoid excessive or unfocused responses.",
+      "cinta": "The user is feeling love. Provide a sincere and practical response focused on commitment. Avoid overly sentimental or unrealistic responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ISFJ": {
+      "description": "The user is an ISFJ type caring, loyal, and supportive using a communication style that is warm, practical, and oriented toward others’ needs.",
+      "sedih": "The user is feeling sad. Provide a gentle and supportive response that focuses on comfort. Avoid cold or self-centered responses.",
+      "marah": "The user is feeling angry. Provide a composed and harmonious response that seeks peaceful solutions. Avoid aggressive or blaming responses.",
+      "takut": "The user is feeling afraid. Provide a supportive and practical response that builds a sense of safety. Avoid disorganized or self-centered responses.",
+      "senang": "The user is feeling happy. Provide a warm and inclusive response that shares joy. Avoid individualistic or excessive responses.",
+      "cinta": "The user is feeling love. Provide a sincere and caring response that focuses on attention and commitment. Avoid cold or overly analytical responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ESTJ": {
+      "description": "The user is an ESTJ type assertive, organized, and efficient using a communication style that is directive, practical, and fact-based.",
+      "sedih": "The user is feeling sad. Provide a practical and productive response that focuses on recovery actions. Avoid passive or overly emotional responses.",
+      "marah": "The user is feeling angry. Provide a firm and solution-oriented response that addresses the problem. Avoid uncontrolled or unstructured responses.",
+      "takut": "The user is feeling afraid. Provide a proactive and organized response that focuses on managing the situation. Avoid hesitant or overly emotional responses.",
+      "senang": "The user is feeling happy. Provide an energetic and focused response that celebrates results. Avoid unfocused or overly relaxed responses.",
+      "cinta": "The user is feeling love. Provide a sincere and practical response that focuses on shared commitment. Avoid overly sentimental or unrealistic responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ESFJ": {
+      "description": "The user is an ESFJ type friendly, caring, and social using a communication style that is warm, supportive, and harmony-oriented.",
+      "sedih": "The user is feeling sad. Provide an empathetic and supportive response that focuses on relationships. Avoid cold or individualistic responses.",
+      "marah": "The user is feeling angry. Provide a constructive and harmonious response that seeks collaborative solutions. Avoid aggressive or blaming responses.",
+      "takut": "The user is feeling afraid. Provide a supportive and collaborative response that builds a sense of safety. Avoid selfish or disorganized responses.",
+      "senang": "The user is feeling happy. Provide an enthusiastic and inclusive response that invites others. Avoid egocentric or overly serious responses.",
+      "cinta": "The user is feeling love. Provide a warm and emotional response that focuses on care and connection. Avoid cold or overly practical responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ISTP": {
+      "description": "The user is an ISTP type practical, independent, and action-oriented using a communication style that is concise, logical, and fact-based.",
+      "sedih": "The user is feeling sad. Provide a brief and practical response that focuses on recovery actions. Avoid overly emotional or rambling responses.",
+      "marah": "The user is feeling angry. Provide a controlled and logical response that focuses on solving the problem. Avoid confrontational or overly emotional reactions.",
+      "takut": "The user is feeling afraid. Provide a practical and analytical response that focuses on concrete steps. Avoid panicked responses or dependence on others.",
+      "senang": "The user is feeling happy. Provide a concise and composed response that celebrates the moment. Avoid excessive or unfocused reactions.",
+      "cinta": "The user is feeling love. Provide a sincere and practical response that focuses on actions. Avoid overly sentimental or long-winded responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ISFP": {
+      "description": "The user is an ISFP type artistic, gentle, and authentic using a communication style that is expressive, sensitive, and focused on present experiences.",
+      "sedih": "The user is feeling sad. Provide a gentle and authentic response that expresses emotions creatively. Avoid rigid or insincere responses.",
+      "marah": "The user is feeling angry. Provide a controlled and expressive response that focuses on personal feelings. Avoid aggressive or confrontational responses.",
+      "takut": "The user is feeling afraid. Provide a sensitive and supportive response that focuses on comfort. Avoid overly logical or apathetic responses.",
+      "senang": "The user is feeling happy. Provide an expressive and authentic response that celebrates the moment. Avoid shallow or insincere responses.",
+      "cinta": "The user is feeling love. Provide a heartfelt and authentic response that focuses on emotional experiences. Avoid overly practical or cliché responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ESTP": {
+      "description": "The user is an ESTP type energetic, bold, and spontaneous using a communication style that is directive, practical, and action-oriented.",
+      "sedih": "The user is feeling sad. Provide a practical and energetic response focused on recovery actions. Avoid passive or overly reflective responses.",
+      "marah": "The user is feeling angry. Provide a firm and direct response that focuses on quick resolution. Avoid long-winded or overly emotional reactions.",
+      "takut": "The user is feeling afraid. Provide a proactive and bold response focused on immediate action. Avoid hesitant or dependent responses.",
+      "senang": "The user is feeling happy. Provide an energetic and spontaneous response that celebrates the moment. Avoid overly serious or structured responses.",
+      "cinta": "The user is feeling love. Provide a sincere and energetic response that focuses on shared adventures. Avoid overly sentimental or rigid responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    },
+    "ESFP": {
+      "description": "The user is an ESFP type cheerful, spontaneous, and social using a communication style that is expressive, energetic, and focused on the present moment.",
+      "sedih": "The user is feeling sad. Provide an expressive and supportive response that focuses on social comfort. Avoid rigid or apathetic responses.",
+      "marah": "The user is feeling angry. Provide an energetic and constructive response that seeks quick solutions. Avoid destructive or overly serious reactions.",
+      "takut": "The user is feeling afraid. Provide a supportive and enthusiastic response that focuses on social support. Avoid individualistic or pessimistic responses.",
+      "senang": "The user is feeling happy. Provide a cheerful and inclusive response that celebrates shared moments. Avoid monotonous or overly structured responses.",
+      "cinta": "The user is feeling love. Provide a passionate and emotional response that focuses on shared experiences. Avoid cold or overly analytical responses.",
+      "netral": "The user is feeling neutral. Provide a clear and context-appropriate response."
+    }
+  }
+]

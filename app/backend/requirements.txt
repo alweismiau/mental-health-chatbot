@@ -1,0 +1,25 @@
+# tensorflow
+# transformers 
+# --upgrade transformers
+# tf-keras 
+tensorflow==2.15.0
+bitsandbytes
+emoji
+pyparsing
+pytz
+nltk
+pandas
+requests
+scikit-learn
+flask
+flask_cors
+torch
+numpy
+python-dotenv
+accelerate
+pyjwt 
+flask-jwt-extended
+sastrawi
+pyspellchecker
+symspellpy
+# unsloth
